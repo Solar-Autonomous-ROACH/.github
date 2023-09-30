@@ -1,2 +1,1 @@
-# .github
-Organization Description
+# Solar-Autonomous-ROACH Organization
